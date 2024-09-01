@@ -1,5 +1,5 @@
 userName = str(input("Enter your Name: "))
-user_msg01 = f"Hello,{userName.title()}! Let's explore your favorite numbers."
+user_msg01 = f"Hello,{userName.title()} ! Let's explore your favorite numbers."
 print(user_msg01)
 
 numbers = []
